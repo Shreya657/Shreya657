@@ -1,4 +1,8 @@
-# Hi there, I’m Shreya! 👋
+# Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Shreya;I+love+coding+and+learning+new+things!)](https://git.io/typing-svg)
+
+Welcome to my profile!
 
 🌱 **First-Year B.Tech CSE Student**  
 💻 **Aspiring Full Stack Developer**  
