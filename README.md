@@ -1,4 +1,3 @@
-# Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Shreya;I+love+coding+and+learning+new+things!)](https://git.io/typing-svg)
 
@@ -65,8 +64,4 @@ Welcome to my profile!
 
 ---
 
-## 🚀 Fun Fact
-
-> “I’m determined to become a developer who builds something crazy enough to change the world!” 🌍
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=eat+sleep+code+repeat)](https://git.io/typing-svg)
