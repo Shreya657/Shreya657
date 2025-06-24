@@ -58,9 +58,11 @@ Welcome to my profile!
 
 ## 💼 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/shreya-bera-978878307/)
-[![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=fff)](https://x.com/esbi2049)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?logo=vercel&logoColor=fff)](https://shreya1100.vercel.app/)
+
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourusername)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
 
 ---
 
