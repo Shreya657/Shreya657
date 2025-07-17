@@ -3,7 +3,7 @@
 
 Welcome to my profile!
 
-🌱 **First-Year B.Tech CSE Student**  
+🌱 **Second-Year B.Tech CSE Student**  
 💻 **Aspiring Full Stack Developer**  
 🚀 On a journey to build something crazy to change the world!
 
