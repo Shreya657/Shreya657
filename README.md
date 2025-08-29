@@ -3,7 +3,7 @@
 
 Welcome to my profile!
 
-🌱 **Second-Year B.Tech CSE Student**  
+🌱 **2nd-yo B.Tech CSE Student**  
 💻 **Aspiring Full Stack Developer**  
 🚀 On a journey to build something crazy to change the world!
 
@@ -30,7 +30,6 @@ Welcome to my profile!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![Solana](https://img.shields.io/badge/-Solana-5C2D91?logo=solana&logoColor=fff)
 ![Web3](https://img.shields.io/badge/-Web3-3C3C3D?logo=web3.js&logoColor=fff)
 
 ---
