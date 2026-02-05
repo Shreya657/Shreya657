@@ -1,6 +1,6 @@
 
 
----[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Shreya;I+code,+learn+and+build+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Shreya;I+code,+learn+and+build+things!)](https://git.io/typing-svg)
 
 Welcome to my profile!
 
