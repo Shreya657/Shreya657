@@ -19,27 +19,27 @@ Welcome to my profile!
 
 ---
 
+## 🧑‍💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
+
+
 ## 🛠️ Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
+**Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
 
-**Auth & APIs**  
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff)
-![REST](https://img.shields.io/badge/REST%20APIs-005571?logo=swagger&logoColor=fff)
+**Auth & APIs:** ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff) ![REST](https://img.shields.io/badge/REST%20APIs-005571?logo=swagger&logoColor=fff)
 
-**Exploring**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
-![Web3](https://img.shields.io/badge/Web3-3C3C3D?logo=web3.js&logoColor=fff)
+**Exploring:** ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff) ![Web3](https://img.shields.io/badge/Web3-3C3C3D?logo=web3.js&logoColor=fff)
+
 
 
 ## 🧰 Tools I Use
