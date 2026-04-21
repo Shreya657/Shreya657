@@ -52,12 +52,6 @@ Welcome to my profile!
 
 ---
 
-## 🌱 Current Focus
-
-- Deepening backend development and system fundamentals
-- Exploring on-chain development and smart contracts
-
-
 
 ## 💼 Connect With Me
 
