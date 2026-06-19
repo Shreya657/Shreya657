@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="800"  src="https://raw.githubusercontent.com/Shreya657/Shreya657/main/github.jpeg" alt="Shreya_profile"/>
+<img width="700"  src="https://raw.githubusercontent.com/Shreya657/Shreya657/main/github.jpeg" alt="Shreya_profile"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1AF700&center=true&vCenter=true&width=600&height=70&lines=Hey+I'm+Shreya;I+code,+learn+and+build+things!)](https://git.io/typing-svg)
@@ -90,7 +90,7 @@ open_to:             "Internships · Team Collaborations · Freelance Gigs"
 fun_fact:            "Fueled by dark-mode IDEs, loud music, and building in public on X 🚀"
 ```
 
-📊 **GitHub Analytics**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" /> **GitHub Analytics**
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreya657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=1AF700&icon_color=1AF700&text_color=ffffff"/>
@@ -100,22 +100,21 @@ fun_fact:            "Fueled by dark-mode IDEs, loud music, and building in publ
 ---
 
 🔥 **Contribution Streak**
-
+ 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shreya657&theme=tokyonight&hide_border=true&background=0D0D0D&ring=1AF700&fire=1AF700&currStreakLabel=1AF700"/>
 </p>
 
 ---
 
-📈 **Activity Graph**
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" /> **Activity Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya657&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=1AF700&line=1AF700&point=ffffff"/>
 </p>
 
 ---
-
-🐍 **Contribution Snake**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25px" /> **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shreya657/Shreya657/output/github-contribution-grid-snake-dark.svg"/>
@@ -124,11 +123,13 @@ fun_fact:            "Fueled by dark-mode IDEs, loud music, and building in publ
 ---
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F70000&center=true&vCenter=true&width=500&height=70&lines=eat+sleep+code+repeat)](https://git.io/typing-svg)
   <p> 
     <img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-0D0D0D?style=for-the-badge&labelColor=1AF700&textColor=000000" />
   </p>
   <p><em>⭐ If you like my work, drop a star!</em></p>
-  <p>Made with 💚 by <strong>Shreya</strong> &nbsp;|&nbsp; 🌐 <a href="https://shreyaa.me">portfolio2-0-eight-beta.vercel.app</a></p>
+  <p>Made with 💚 by <strong>Shreya</strong> &nbsp;|&nbsp; 🌐 <a href="https://shreyaa.me">shreyaa.me</a></p>
 </div>
 
 
