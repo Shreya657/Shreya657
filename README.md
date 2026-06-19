@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Shreya657/Shreya657/main/github.jpeg" alt="Shreya_profile"/>
+<img width="80%" src="https://raw.githubusercontent.com/Shreya657/Shreya657/main/generated.png" alt="Shreya_profile"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1AF700&center=true&vCenter=true&width=600&height=70&lines=Hey+I'm+Shreya;I+code,+learn+and+build+things!)](https://git.io/typing-svg)
